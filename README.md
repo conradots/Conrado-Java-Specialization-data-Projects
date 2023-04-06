@@ -1,2 +1,2 @@
-# Conrado-Java-Specialization-data-Projects
-Java Specialization data &amp; Projects
+# Conrado-Java-Specialization-data
+Java Specialization data
